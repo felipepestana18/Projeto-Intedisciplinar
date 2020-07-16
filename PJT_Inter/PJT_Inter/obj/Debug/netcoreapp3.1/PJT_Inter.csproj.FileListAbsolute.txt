@@ -1,0 +1,336 @@
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.csprojAssemblyReference.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.AssemblyInfoInputs.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.AssemblyInfo.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.csproj.CoreCompileInputs.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorAssemblyInfo.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorAssemblyInfo.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.TagHelpers.input.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.TagHelpers.output.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorCoreGenerate.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Login.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OrdemServico\Create.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OrdemServico\Index.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OrdemServico\Update.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OsServ\Create.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Create.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Index.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Update.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Tecnico\Create.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Tecnico\Index.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Tecnico\Update.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorTargetAssemblyInfo.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorTargetAssemblyInfo.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.pdb
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.StaticWebAssets.xml
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.exe
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.deps.json
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.runtimeconfig.json
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.runtimeconfig.dev.json
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.pdb
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.Views.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.Views.pdb
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.Views.pdb
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.csproj.CopyComplete
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\staticwebassets\PJT_Inter.StaticWebAssets.Manifest.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\staticwebassets\PJT_Inter.StaticWebAssets.xml
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.genruntimeconfig.cache
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Teste.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Create.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OsServ\Index.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OsServ\Update.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\CreateLogin.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Index.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Update.cshtml.g.cs
+D:\Users\HankZ\Projetos C#\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Create.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.StaticWebAssets.xml
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.exe
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.deps.json
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.runtimeconfig.json
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.runtimeconfig.dev.json
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.pdb
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.Views.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.Views.pdb
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.csprojAssemblyReference.cache
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.AssemblyInfoInputs.cache
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.AssemblyInfo.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.csproj.CoreCompileInputs.cache
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorAssemblyInfo.cache
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorAssemblyInfo.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.TagHelpers.input.cache
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.TagHelpers.output.cache
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorCoreGenerate.cache
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Teste.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Create.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\CreateLogin.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Index.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Login.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Update.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OrdemServico\Create.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OrdemServico\Index.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OrdemServico\Update.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OsServ\Create.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OsServ\Index.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OsServ\Update.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Create.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Index.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Update.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Create.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Tecnico\Create.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Tecnico\Index.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Tecnico\Update.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorTargetAssemblyInfo.cache
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorTargetAssemblyInfo.cs
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.Views.pdb
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.csproj.CopyComplete
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\staticwebassets\PJT_Inter.StaticWebAssets.Manifest.cache
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\staticwebassets\PJT_Inter.StaticWebAssets.xml
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.dll
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.pdb
+C:\Users\FELIPEDASILVAPESTANA\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.genruntimeconfig.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.StaticWebAssets.xml
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.exe
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.deps.json
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.runtimeconfig.json
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.runtimeconfig.dev.json
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.pdb
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.Views.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\PJT_Inter.Views.pdb
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.csprojAssemblyReference.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.AssemblyInfoInputs.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.AssemblyInfo.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.csproj.CoreCompileInputs.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorAssemblyInfo.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorAssemblyInfo.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.TagHelpers.input.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.TagHelpers.output.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorCoreGenerate.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Teste.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Create.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\CreateLogin.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Index.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Login.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\Update.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OrdemServico\Create.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OrdemServico\Index.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OrdemServico\Update.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OsServ\Create.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OsServ\Index.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\OsServ\Update.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Create.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Index.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Servico\Update.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Create.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Tecnico\Create.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Tecnico\Index.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\Tecnico\Update.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorTargetAssemblyInfo.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.RazorTargetAssemblyInfo.cs
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.Views.pdb
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.csproj.CopyComplete
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\staticwebassets\PJT_Inter.StaticWebAssets.Manifest.cache
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\staticwebassets\PJT_Inter.StaticWebAssets.xml
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.dll
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.pdb
+D:\Users\HankZ\Desktop\PJT_Inter\PJT_Inter\obj\Debug\netcoreapp3.1\PJT_Inter.genruntimeconfig.cache

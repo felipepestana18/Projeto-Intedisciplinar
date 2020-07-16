@@ -1,0 +1,96 @@
+﻿@model OrdemServico
+
+<h2>Editar - Ordem de Serviços</h2>
+
+<form asp-controller="OrdemServico" asp-action="Update" method="post">
+    <hr />
+    <input asp-for="Cliente_Codigo" type="hidden" />
+    <div class="form-group">
+        <label>Cliente</label>
+        <input asp-for="nomeCliente" class="form-control" disabled placeholder="Nome" />
+        <span asp-validation-for="nomeCliente"></span>
+    </div>
+    <div class="form-group">
+        <label>Data de Abertura</label>
+        <input asp-for="Data_Abertura" class="form-control" type="datetime" disabled />
+        <span asp-validation-for="Data_Abertura"></span>
+    </div>
+    <input asp-for="Funcionario_Codigo" type="hidden" />
+    <div class="form-group">
+        <label>Funcionario</label>
+        <input asp-for="nomeFuncionario" class="form-control" disabled placeholder="Funcionario" />
+        <span asp-validation-for="nomeFuncionario"></span>
+    </div>
+    <label>Técnico</label>
+    <select asp-for="Tecnico_Codigo" class="form-control">
+        @foreach (var item in ViewBag.Tecnicos)
+        {
+
+            <option value="@item.Codigo">@item.Nome</option>
+        }
+    </select>
+    <div class="form-group">
+        <label>Equipamento</label>
+        <input asp-for="Equipamento" class="form-control" placeholder="Equipamento" />
+        <span asp-validation-for="Equipamento"></span>
+    </div>
+    <div class="form-group">
+        <label>Total</label>
+        <input asp-for="Total" class="form-control" placeholder="Equipamento" />
+        <span asp-validation-for="Total"></span>
+    </div>
+    @if (Model.Data_Termino == null || Model.Data_Termino == "")
+    {
+        <div class="form-group">
+            <label>Data de Termino</label>
+            <input asp-for="Data_Termino" class="form-control" placeholder="Data Termino" />
+            <span asp-validation-for="Data_Termino"></span>
+        </div>
+    }
+    else
+    {
+        <div class="form-group">
+            <label>Data de Termino</label>
+            <input asp-for="Data_Termino" class="form-control" type="datetime" placeholder="Data Entrega" />
+            <span asp-validation-for="Data_Termino"></span>
+        </div>
+    }
+    @if (Model.Data_Entrega == null || Model.Data_Entrega == "")
+    {
+        <div class="form-group">
+            <label>Data de Entrega</label>
+            <input asp-for="Data_Entrega" class="form-control" placeholder="Data Entrega" />
+            <span asp-validation-for="Data_Entrega"></span>
+        </div>
+    }
+    else
+    {
+        <div class="form-group">
+            <label>Data de Entrega</label>
+            <input asp-for="Data_Entrega" class="form-control" type="datetime" placeholder="Data Entrega" />
+            <span asp-validation-for="Data_Entrega"></span>
+        </div>
+
+    }
+
+    <div class="form-group">
+        <div class="form-check form-check-inline">
+            <input asp-for="Status" type="radio" name="status" id="inlineCheckbox1" value="1">
+            <span asp-validation-for="Status" style="margin-left: 5px">Aberto</span>
+            <div class="form-check form-check-inline" style="margin-left: 10px">
+                <input asp-for="Status" type="radio" name="status" id="inlineCheckbox1" value="2">
+                <span asp-validation-for="Status" style="margin-left: 5px">Aprovado</span>
+            </div>
+            <div class="form-check form-check-inline" style="margin-left: 10px">
+                <input asp-for="Status" type="radio" name="status" id="inlineCheckbox1" value="3">
+                <span asp-validation-for="Status" style="margin-left: 5px">Finalizado</span>
+            </div>
+            <div class="form-check form-check-inline" style="margin-left: 10px">
+                <input asp-for="Status" type="radio" name="status" id="inlineCheckbox1" value="4">
+                <span asp-validation-for="Status" style="margin-left: 5px">Cancelado</span>
+            </div>
+        </div>
+    </div>
+
+    <button class="btn btn-primary ">Salvar</button>
+</form>

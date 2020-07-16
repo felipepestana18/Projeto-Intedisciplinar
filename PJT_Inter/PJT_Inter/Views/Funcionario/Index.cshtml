@@ -1,0 +1,46 @@
+﻿@model List<Funcionario>
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">
+            Lista de Funcionarios
+            <a class="btn btn-primary" style="float: right" href="/Funcionario/Create">Adicionar</a>
+        </h6>
+    </div>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">Nome</th>
+                <th scope="col">Email</th>
+                <th scope="col">Celular</th>
+                <th scope="col">Status</th>
+                <th scope="col">Editar</th>
+                <th scope="col">Excluir</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var fun in Model)
+            {
+                <tr>
+                    <th scope="row">@fun.Nome</th>
+                    <th scope="row">@fun.Email</th>
+                    <th scope="row">@fun.Telefone</th>
+                    <th scope="row">@fun.StatusNome</th>
+                    <th>
+                        <a href="/Funcionario/Update/@fun.Codigo" class="btn btn-info btn-circle btn-sm">
+                            <i class="fas fa-info-circle"></i>
+                        </a>
+                    </th>
+                    <th>
+                        <a href="/Funcionario/Delete/@fun.Codigo" class="btn btn-danger btn-circle btn-sm">
+                            <i class="fas fa-trash"></i>
+                        </a>
+                    </th>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

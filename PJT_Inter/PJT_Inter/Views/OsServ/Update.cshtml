@@ -1,0 +1,33 @@
+﻿@model OsServ
+
+<h2>Editar - Status do Serviço da Ordem de Serviço</h2>
+<form asp-controller="OsServ" asp-action="Update" method="post">
+    <hr>
+    <div class="form-group">
+        <input name="servico_id" hidden value="@ViewBag.servico_id" />
+    </div>
+    <div class="form-group">
+        <input name="os_id" hidden value="@ViewBag.os_id" />
+    </div>
+
+    <div class="form-group">
+        <div class="form-check form-check-inline">
+            <input asp-for="Status" type="radio" name="status" id="inlineCheckbox1" value="1">
+            <span asp-validation-for="Status" style="margin-left: 5px">Aguardando Confirmação</span>
+            <div class="form-check form-check-inline" style="margin-left: 10px">
+                <input asp-for="Status" type="radio" name="status" id="inlineCheckbox1" value="2">
+                <span asp-validation-for="Status" style="margin-left: 5px">Em Andamento</span>
+            </div>
+            <div class="form-check form-check-inline" style="margin-left: 10px">
+                <input asp-for="Status" type="radio" name="status" id="inlineCheckbox1" value="3">
+                <span asp-validation-for="Status" style="margin-left: 5px">Finalizado</span>
+            </div>
+            <div class="form-check form-check-inline" style="margin-left: 10px">
+                <input asp-for="Status" type="radio" name="status" id="inlineCheckbox1" value="4">
+                <span asp-validation-for="Status" style="margin-left: 5px">Cancelado</span>
+            </div>
+        </div>
+    </div>
+
+    <button class="btn btn-primary ">Salvar</button>
+</form>

@@ -1,0 +1,50 @@
+﻿@model OsServ
+
+
+
+    <h2>Cadastro - Serviços na Ordem de Serviços</h2>
+    <form asp-controller="OsServ" asp-action="Create" method="post" ng-app="">
+        <hr>
+        <div class="form-group">
+            <input name="os" hidden value="@ViewBag.id_Os" />
+        </div>
+
+        <select name="ser" asp-for="Servico_Id" class="form-control">
+            <option value="">Selecioner o Serviço</option>
+            @foreach (var item in ViewBag.Servicos)
+            {
+                
+                <option value="@item.ID_Servico">@item.Nome</option>
+            }
+        </select>
+        <input class="form-group" type="checkbox" ng-model="checkbox" ng-init="checkbox = false">
+        <label for="customControlInline">Deseja adicionar outro Equipamento ou Serviço?</label>
+        <br />
+        <div ng-if="checkbox">
+            <div class="form-group">
+                <select name="ser" class="form-control">
+                    <option value="">Selecioner o Serviço</option>
+                    @foreach (var item in ViewBag.Servicos)
+                    {
+                        <option value="@item.ID_Servico">@item.Nome</option>
+                    }
+                </select>
+            </div>
+
+            <input class="form-group" type="checkbox" ng-model="checkbox1" ng-init="checkbox1 = false">
+            <label for="customControlInline">Deseja adicionar outro Equipamento ou Serviço?</label>
+            <div ng-if="checkbox1">
+                <div class="form-group">
+                    <select asp-for="Servico_Id" name="ser" class="form-control">
+                        <option value="">Selecioner o Serviço</option>
+                        @foreach (var item in ViewBag.Servicos)
+                        { 
+                            <option value="@item.ID_Servico">@item.Nome</option>
+                        }
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <button class="btn btn-primary ">Salvar</button>
+    </form>

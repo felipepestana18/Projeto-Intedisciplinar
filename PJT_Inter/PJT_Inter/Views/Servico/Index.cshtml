@@ -1,0 +1,43 @@
+﻿@model List<Servico>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Lista de Servicos</h6>
+        <a class="btn btn-primary" style="float: right" href="/Servico/Create">Adicionar</a>
+    </div>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">Nome de Serviço</th>
+                <th scope="col">Descrição</th>
+                <th scope="col">Valor</th>
+                <th scope="col">Status</th>
+                <th scope="col">Editar</th>
+                <th scope="col">Excluir</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var serv in Model)
+            {
+            <tr>
+                <th scope="row">@serv.Nome</th>
+                <th scope="row">@serv.Descricao</th>
+                <th scope="row">@Decimal.Round((decimal)serv.Valor, 2)</th>
+                <th scope="row">@serv.StatusNome</th>
+                <th>
+                    <a class="btn btn-info btn-circle btn-sm" href="/Servico/Update/@serv.Id">
+                        <i class="fas fa-info-circle"></i>
+                    </a>
+                </th>
+                <th>
+                    <a class="btn btn-danger btn-circle btn-sm" href="/Servico/Delete/@serv.Id">
+                        <i class="fas fa-trash"></i>
+                    </a>
+                </th>
+
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

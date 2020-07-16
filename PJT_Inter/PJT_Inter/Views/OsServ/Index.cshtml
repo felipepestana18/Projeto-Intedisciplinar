@@ -1,0 +1,41 @@
+﻿@model List<OsServ>
+
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">
+                Lista de Serviços da Ordem de Serviço
+                    <a class="btn btn-primary" style="float: right" href="/OsServ/Create/@ViewBag.id_Os">Adicionar</a>
+     
+            </h6>
+        </div>
+        <form asp-controller="OsServ" asp-action="Index" method="get">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th scope="col">Serviço</th>
+                        <th scope="col">Status</th>
+                        <th scope="col">Editar</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var oss in Model)
+                    {
+                        <tr>
+                            <th scope="row">@oss.NomeServico</th>
+                            <th scope="row">@oss.statusNome</th>
+                            <th>
+                                @*<a href="Home/Parametros/?P1=valor1&P2=valor2">Ativar</a>*@
+
+                                <a class="btn btn-info btn-circle btn-sm" href="/OsServ/Update/?P1=@oss.Os_Id&P2=@oss.Servico_Id">
+                                    <i class="fas fa-info-circle"></i>
+                                </a>
+                            </th>
+                        </tr>    
+                    }
+                    
+                </tbody>
+            </table>
+        </form>
+    </div>
+
+<a class="btn btn-primary" href="/OrdemServico/Index">Voltar</a>

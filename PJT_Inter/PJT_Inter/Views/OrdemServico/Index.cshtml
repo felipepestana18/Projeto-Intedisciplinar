@@ -1,0 +1,48 @@
+﻿@model List<OrdemServico>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Lista de Ordem de Serviços
+            <a class="btn btn-primary" style="float: right" href="/OrdemServico/Create">Adicionar</a></h6>
+    </div>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">Nr</th>
+                <th scope="col">Nome Cliente</th>
+                <th scope="col">Equipamento</th>
+                <th scope="col">Data de Abertura</th>
+                <th scope="col">Total</th>
+                <th scope="col">Status</th>
+                <th scope="col">Editar</th>
+                <th scope="col">Serviços</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var os in Model)
+            {
+            <tr>
+                <th scope="row">@os.Id</th>
+                <th scope="row">@os.nomeCliente</th>
+                <th scope="row">@os.Equipamento</th>
+                <th scope="row">@os.Data_Abertura</th>
+                <th scope="row">@Decimal.Round((decimal)os.Total, 2)</th>
+                <th scope="row">@os.StatusNome</th>
+                <th>
+                    <a class="btn btn-info btn-circle btn-sm" href="/OrdemServico/Update/@os.Id">
+                        <i class="fas fa-info-circle"></i>
+                    </a>
+                </th>
+                <th>
+                    <a class="btn btn-secondary btn-icon-split" href="/OrdemServico/Enviar/@os.Id">
+                        <span class="icon text-white-50">
+                            <i class="fas fa-arrow-right"></i>
+                        </span>
+                        <span class="text">Visualizar</span>
+                    </a>
+                </th>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
